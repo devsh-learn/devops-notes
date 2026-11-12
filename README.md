@@ -21,8 +21,8 @@ Each phase ends with a mini-project published on GitHub.
 
 | Phase | Topic | Main tools | Status |
 | --- | --- | --- | --- |
-| 0 | Environment | VirtualBox, Ubuntu Server, SSH, VS Code, GitHub | in progress |
-| 1 | Linux | bash, systemd, ssh, nginx, cron | not started |
+| 0 | Environment | VirtualBox, Ubuntu Server, SSH, VS Code, GitHub | done |
+| 1 | Linux | bash, systemd, ssh, nginx, cron | in progress  |
 | 2 | Git and GitHub | git, pull requests | not started |
 | 3 | Networking | dig, curl, tcpdump, Wireshark | not started |
 | 4 | Scripting | Bash, Python, pytest | not started |
