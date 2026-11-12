@@ -1,0 +1,16 @@
+# secrets and keys
+*.pem
+*.key
+id_*
+.env
+*.tfstate
+*.tfstate.*
+
+# editors and OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# password manager databases
+*.kdbx
+*.kdb
