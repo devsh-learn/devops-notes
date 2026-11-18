@@ -53,3 +53,9 @@ Started: 2026-11-09
 ## Contact
 
 GitHub: [devsh-learn](https://github.com/devsh-learn)
+
+## Progress log
+
+| Dates | Phase | Topics |
+| --- | --- | --- |
+| 2026-11-12 – 2026-11-18 | 1. Linux (week 1 of 4) | Filesystem hierarchy, absolute and relative paths, `ls -l`, file operations, `find`, `grep`, I/O redirection and pipes, `nano` and `vim`, `tmux`, safe service configuration change with rollback (chrony), OverTheWire Bandit levels 0–11 |
